@@ -6,4 +6,6 @@ Important steps for git workflow:
 3. Check status with git status
 4. Stage cange with git add
 5. Commit change to version history with git commit
+6. Review previous changes with git log
 
+Extra lines!
